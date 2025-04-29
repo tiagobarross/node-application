@@ -15,9 +15,6 @@ Explicando cada tabela e seus campos:
 Valores inteiros que podem variar de 1 até o 5.
 Exemplos: ação, comedia, terror, medo...etc._
 ```
-
-Você pode usar esse modelo como base para fazer um tambem, mas caso queira alterar algum dado e/ou montar o seu próprio diagrama você pode usar esse site [**aqui**](https://drawsql.app/home).
-
 ### **Observações:**
 
 Alguns detalhes aprendidos em aula que foram adicionados no desafio:
